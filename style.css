@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding:0px ;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f3f2ef;
+}
+ul{
+    justify-content: space-around;
+    background-color: white;
+}
+
+.linkedin{
+    font-size: 45px;
+    color: #0a66c2;
+    padding-top: 10px;
+}
+.icon{
+    font-size: 25px;
+    padding-top: 20px;
+    color: #6c6c6c;
+}
+.home{
+    font-size: 25px;
+    padding-top: 20px;
+    color: black;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+
+
+                <i class="fa-brands fa-linkedin"></i>
+                 <i class="fa-solid fa-magnifying-glass"></i>
+                 <i class="fa-solid fa-house-chimney"></i>
+                <i class="fa-solid fa-user-group"></i>
+                 <i class="fa-solid fa-briefcase"></i>
+                <i class="fa-solid fa-ellipsis"></i>  */
