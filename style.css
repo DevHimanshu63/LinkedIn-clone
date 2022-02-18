@@ -60,16 +60,14 @@ ul{
   }
 
 #white_space{
-    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 100vw;
     height: 116px;
     background-color: #ffffff;
 }
-.Name_degignation{
-    margin-left: 178px;
-    /* margin-top: 1rem; */
-    
-}
+
 
 
 
