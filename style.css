@@ -6,9 +6,12 @@
 body{
     background-color: #f3f2ef;
 }
+
 ul{
     justify-content: space-around;
     background-color: white;
+    width: 100vw;
+    height: 55px;
 }
 
 .linkedin{
@@ -27,7 +30,46 @@ ul{
     color: black;
 
 }
+/* nav css completed */
+#border{
+    
+    margin-top: 0.7rem;
+    width: 100vw;
+    height: 55px;
+    background-color: #a0b4b7;
+}
+#ember243 {
+    justify-content: center;
+    margin-left: 178px;
+    margin-top: 1rem;
+    border-radius: 50%;
+    border: 2px solid white;
+}
 
+/* media query for photo  */
+@media screen and (min-width: 426px) {
+    #ember243 {
+        display:block;
+        margin-left: auto;
+        margin-right: auto;
+        
+        border-radius: 50%;
+        border: 2px solid white;
+        
+      } 
+  }
+
+#white_space{
+    display: block;
+    width: 100vw;
+    height: 116px;
+    background-color: #ffffff;
+}
+.Name_degignation{
+    margin-left: 178px;
+    /* margin-top: 1rem; */
+    
+}
 
 
 
