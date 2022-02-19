@@ -175,6 +175,7 @@ img#ember495{
     
 div#all_section{
     background-color: white;
+    margin-top: 5px;
 }
     img#ember495{
         width: 345px;
@@ -223,7 +224,24 @@ div#like_comment{
    color:#666666 ;
 }
 
+@media only screen and (min-width:50px)  and (max-width:450px){
+    #breakpoint{
+        display: none;
+        font-family: 'Montserrat', sans-serif;
+font-family: 'Rubik', sans-serif;
+        font-family: 'Shizuru', cursive;
+    }
+  
+}
 
+
+
+@media only screen and (min-width:450px) {
+    div.Breakpoint{
+        display: none;
+    }
+  
+}
 
 
 
