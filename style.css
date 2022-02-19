@@ -160,10 +160,29 @@ div#lorem{
     margin: 10px;
 }
 img#ember495{
-    margin-left: 7px;
-    margin-right: auto;
-    justify-content: center;
+    margin-left: 10px;
+    width: 400px;
+    height: 400px;
+   
 }
+
+@media only screen and (max-width: 376px) {
+    img#ember495{
+        width: 360px;
+        
+       
+    }
+    #ember243 {
+        justify-content: center;
+        margin-left: 150px;
+        margin-top: 1rem;
+        border-radius: 50%;
+        border: 2px solid white;
+    }
+  }
+
+
+
 
 div#like_comment{
     display: flex;
