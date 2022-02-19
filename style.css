@@ -6,10 +6,11 @@
 body{
     background-color: #f3f2ef;
 }
-
+.mainNav{
+    background-color: white;
+}
 ul{
     justify-content: space-around;
-    background-color: white;
     width: 100vw;
     height: 55px;
 }
@@ -66,8 +67,73 @@ ul{
     width: 100vw;
     height: 116px;
     background-color: #ffffff;
+    border: 1px solid #f0e9e9;
+    font-family: 'Montserrat', sans-serif;
+
+}
+div#show_more{
+    /* font-size: 10px; */
+    display: flex;
+    justify-content: center;
+   margin-top: 15px;
+   font-size: 1rem;
+   color: #6f6e70;
+   font-family: 'Montserrat', sans-serif;
+}
+.drop_down{
+    width: 1.8rem;
+    height: 1.6rem;
 }
 
+#start_post{
+
+    width: 100vw;
+    height: 140px;
+    background-color: #ffffff;
+    margin-top: 10px;
+
+}
+img#ember24 {
+    margin-top: 26px;
+    border: 2px solid white;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+
+#searchbutton {
+        margin-top: 29px;
+        width: 78vw;
+        height: 11vh;
+        border: 1ps solid #cacaca;
+        border-radius: 169px;
+        margin-left: 10px;
+        padding: 20px;
+        font-weight: 400;
+}
+#photos_icon{
+    margin-top: 20px;
+    display: flex;
+    list-style: none;
+}
+.about_photo{
+    margin-left: 10px;
+    color: #838383;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+}
+
+.photos_icon{
+    display: flex;
+}
+
+.hr{
+    margin-top: 17px;
+    width: 77%;
+    height: 2px;
+    /* background-color: #f1f0ee; */
+    background-color: red;
+
+}
 
 
 
