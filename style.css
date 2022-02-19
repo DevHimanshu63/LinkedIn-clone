@@ -144,7 +144,7 @@ div#sort_by>p{
 }
 
 div#all_section{
-    background-color: #ffff;
+    background-color: white;
 }
 img#ember682 {
     margin-left: 10px;
@@ -172,6 +172,10 @@ img#ember495{
     body{
         overflow-x:hidden ;
     }
+    
+div#all_section{
+    background-color: white;
+}
     img#ember495{
         width: 360px;
         
