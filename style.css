@@ -160,7 +160,28 @@ div#lorem{
     margin: 10px;
 }
 
+div#like_comment{
+    display: flex;
+    margin-left: 18px;
+    margin-top: 9px;
+}
 
+.fa-thumbs-up{
+    color: blue;
+}
+.fa-heart{
+    color: red;
+}
+.arrow_trend{
+    margin-top: 20px;
+    display: flex;
+    list-style: none;
+    font-size: 25px;
+    
+}
+.abc{
+   color:#666666 ;
+}
 
 
 
