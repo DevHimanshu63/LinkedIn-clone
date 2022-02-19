@@ -159,6 +159,11 @@ img#ember682 {
 div#lorem{
     margin: 10px;
 }
+img#ember495{
+    margin-left: 7px;
+    margin-right: auto;
+    justify-content: center;
+}
 
 div#like_comment{
     display: flex;
