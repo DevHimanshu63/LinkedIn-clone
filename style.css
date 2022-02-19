@@ -128,14 +128,37 @@ img#ember24 {
 
 .hr{
     margin-top: 17px;
-    width: 77%;
+    width: 73%;
     height: 2px;
     /* background-color: #f1f0ee; */
     background-color: red;
 
 }
+div#sort_by>p{
+    margin-top: 8px;
+    
+}
+.top_icon{
+    margin: 8px;
+    font-size: 20px;
+}
+
+div#all_section{
+    background-color: #ffff;
+}
+img#ember682 {
+    margin-left: 10px;
+    margin-top: 10px;
+}
 
 
+.pepcoding {
+    margin-left: 11px;
+    margin-top: 7px;
+}
+div#lorem{
+    margin: 10px;
+}
 
 
 
