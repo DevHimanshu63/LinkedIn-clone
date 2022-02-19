@@ -168,7 +168,7 @@ img#ember495{
 
 
 /* for small phone */
-@media only screen and (max-width: 376px) {
+@media only screen and (min-width: 200px) and  (max-width: 376px) {
     body{
         overflow-x:hidden ;
     }
@@ -177,7 +177,7 @@ div#all_section{
     background-color: white;
 }
     img#ember495{
-        width: 350px;
+        width: 345px;
         
        
     }
