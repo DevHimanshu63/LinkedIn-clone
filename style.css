@@ -244,6 +244,21 @@ font-family: 'Rubik', sans-serif;
 }
 
 
+.Befirst_comment{
+    width: 100vw;
+    height: 10vh;
+    background-color: #666666;
+}
+.comment{
+    margin-left: 25px;
+    font-size: 20px;
+    padding: 8px;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Rubik', sans-serif;
+            font-family: 'Shizuru', cursive;
+}
+
 
 
 
