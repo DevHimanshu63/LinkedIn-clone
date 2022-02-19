@@ -166,7 +166,12 @@ img#ember495{
    
 }
 
+
+/* for small phone */
 @media only screen and (max-width: 376px) {
+    body{
+        overflow-x:hidden ;
+    }
     img#ember495{
         width: 360px;
         
@@ -178,6 +183,13 @@ img#ember495{
         margin-top: 1rem;
         border-radius: 50%;
         border: 2px solid white;
+    }
+    .hr {
+        margin-top: 17px;
+        width: 64%;
+        height: 2px;
+        /* background-color: #f1f0ee; */
+        background-color: red;
     }
   }
 
